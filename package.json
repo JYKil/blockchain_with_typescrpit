@@ -10,5 +10,8 @@
   },
   "devDependencies": {
     "tsc-watch": "^1.1.39"
+  },
+  "dependencies": {
+    "crypto-js": "^4.1.1"
   }
 }
